@@ -115,11 +115,4 @@
   />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=7ecbff&height=4&section=footer" width="100%"/>
-
-<!-- FOOTER ANIMATION -->
-<p align="center">
-  <img src="https://media.giphy.com/media/13mfssn73An6De/giphy.gif" width="300"/>
-  <img src="https://media.giphy.com/media/l0HlQ7LRalwZ3nZJ6/giphy.gif" width="500"/>
-</p>
 
