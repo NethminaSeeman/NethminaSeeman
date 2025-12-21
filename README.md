@@ -5,9 +5,7 @@
   ⚡ Undergraduate | AI & Machine Learning Enthusiast ⚡
 </h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="120"/>
-</p>
+
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=7ecbff&height=4&section=header" width="100%"/>
 
