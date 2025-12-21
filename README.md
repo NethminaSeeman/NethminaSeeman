@@ -94,25 +94,4 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=7ecbff&height=4" width="100%"/>
 
-<!-- GITHUB STATS -->
-<h3 align="center">📊 Saiyan Power Level</h3>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=NethminaSeeman&show_icons=true&theme=tokyonight&title_color=7ecbff&icon_color=7ecbff&text_color=ffffff&bg_color=0d1117"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=NethminaSeeman&theme=tokyonight&ring=7ecbff&fire=7ecbff"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NethminaSeeman&layout=compact&theme=tokyonight&title_color=7ecbff"
-  />
-</p>
-
 
