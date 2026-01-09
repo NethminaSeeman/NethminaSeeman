@@ -17,13 +17,6 @@
   🚀 Building projects step by step like a Saiyan training arc
 </div>
 
-<h3 align="center">🤖 AI / ML Arsenal (Charging)</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-20%25%20Charged-7ecbff?style=for-the-badge&logo=tensorflow"/>
-  <img src="https://img.shields.io/badge/PyTorch-10%25%20Charged-7ecbff?style=for-the-badge&logo=pytorch"/>
-  <img src="https://img.shields.io/badge/NumPy-15%25%20Charged-7ecbff?style=for-the-badge&logo=numpy"/>
-</p>
-
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=7ecbff&height=4" width="100%"/>
 
