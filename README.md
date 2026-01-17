@@ -1,12 +1,3 @@
-<div align="center">
-  
-  <h2>Hi 👋, I'm Nethmina Seeman</h2>
-  
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Sunil+%F0%9F%91%8B;Crafting+Digital+Experiences;Building+Bots+%7C+Servers+%7C+Websites;Let's+Create+Something+Epic!)
-
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding Animation"/>
-</div>
-
 <h1 align="center">Hi 👋, I'm Nethmina Seeman</h1>
 
 <h3 align="center">
