@@ -1,94 +1,119 @@
-<div align="center">
-   
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Nethmina+%F0%9F%91%8B;Crafting+Digital+Experiences;Building+%7C+Websites;Let's+Create+Something+Epic!)
+# Hi, I'm Nethmina 👋
 
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding Animation"/>
-</div>
+### 3rd Year IT Undergraduate | Future AI + DevOps + Cybersecurity Engineer
 
-<h3 align="center">
-  ⚡ Undergraduate | AI & Machine Learning Enthusiast ⚡
-</h3>
+I am building myself to become an engineer who can **design intelligent systems, deploy them reliably, and secure them responsibly**.
 
+Instead of chasing trends, I focus on understanding how systems actually work — from logic → infrastructure → security.
 
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=7ecbff&height=4&section=header" width="100%"/>
+## Engineering Direction ∞
 
-<!-- ABOUT -->
-<div style="border:2px solid #1e90ff; border-radius:14px; padding:18px; margin:20px 0;">
-  🧠 <b>About Me</b><br><br>
-  🌱 Currently learning <b>Machine Learning</b><br>
-  🤖 Interested in <b>AI, Deep Learning & Smart Systems</b><br>
-  🚀 Building projects step by step like a Saiyan training arc
-</div>
+Artificial Intelligence  +  DevOps Automation  +  Secure System Design
 
+My long‑term goal is to work at the intersection where:
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=7ecbff&height=4" width="100%"/>
+* models become real-world products
+* code becomes scalable infrastructure
+* systems remain secure by design
 
-<!-- CONNECT -->
-<div style="border:2px solid #7ecbff; border-radius:12px; padding:15px; margin:20px 0;">
-  <h3 align="left">🔗 Connect with me</h3>
-  <p align="left">
-    <a href="https://twitter.com/nethminam11356" target="_blank">
-      <img
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-        alt="Twitter"
-        height="30"
-        width="40"
-      />
-    </a>
-  </p>
-</div>
+This combination defines the kind of engineer I am preparing to become.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=7ecbff&height=4" width="100%"/>
+---
 
-<!-- LANGUAGES & TOOLS -->
-<h3 align="left">Languages and Tools:</h3>
+## Core Focus Areas
 
-<p align="left">
-  <a href="https://developer.android.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  </a>
-  <a href="https://kotlinlang.org" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-  </a>
-  <a href="https://www.php.net" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  </a>
+🧠 **Artificial Intelligence & Machine Learning**
+Building strong foundations in model logic, structured problem solving, and data-driven thinking
+
+⚙️ **DevOps Mindset**
+Understanding automation workflows, deployment thinking, version control culture, and system reliability concepts
+
+🔐 **Cybersecurity Awareness**
+Learning how secure architectures are designed from the network level upward
+
+🌐 **Systems & Networking Fundamentals**
+Studying how communication actually happens across layers in real computing environments
+
+---
+
+## Engineering Stack ∞ (Languages • Systems • Platforms • Workflow)
+
+<p align="center">
+
+<!-- Core Logic Layer -->
+
+<b>Logic & Core Programming</b><br/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="42"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="42"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="42"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="42"/>
+
+<br/><br/>
+
+<!-- Application Layer -->
+
+<b>Application & Web Layer</b><br/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="42"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="42"/> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="42"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="42"/>
+
+<br/><br/>
+
+<!-- Systems Layer -->
+
+<b>Systems • Database • Environment</b><br/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="42"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="42"/>
+
+<br/><br/>
+
+<!-- Workflow Layer -->
+
+<b>Engineering Workflow</b><br/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="42"/> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="42"/>
+
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=7ecbff&height=4" width="100%"/>
+These tools represent my **engineering growth loop ∞** — from logic → applications → systems → workflow → back to intelligent system design.
 
+---
 
+## Engineering Philosophy
+
+I believe strong engineers are built by:
+
+* mastering fundamentals before specialization
+* understanding systems before scaling them
+* securing systems before deploying them widely
+* and designing solutions that survive outside the classroom
+
+That is the mindset shaping my learning journey right now.
+
+---
+
+## Current Mission
+
+Becoming a developer who can:
+
+✔ build intelligent applications
+✔ deploy them using modern engineering workflows
+✔ and secure them using structured system-level thinking
+
+Step by step. Consistently. Intentionally.
+
+---
+
+## GitHub Intelligence Panel
+
+```
+Engineering Focus        →  Artificial Intelligence + DevOps + Cybersecurity
+Primary Strength Pattern →  Logic-first learning before framework dependency
+System Thinking Level    →  Networking + OSI + protocol-layer awareness
+Build Style              →  Structured incremental system construction
+Deployment Direction     →  Automation-aware development mindset
+Security Awareness       →  Secure-by-design architecture curiosity
+Learning Strategy        →  Depth over speed
+Engineering Identity     →  Intelligent Systems Builder ∞
+```
+
+This panel represents the direction I am intentionally engineering myself toward as a 3rd-year IT undergraduate preparing for real-world system-level development.
+
+---
+
+## Connect With Me
+
+Twitter: [https://twitter.com/nethminam11356](https://twitter.com/nethminam11356)
+
+More technical projects coming soon as I continue building deeper systems knowledge.
