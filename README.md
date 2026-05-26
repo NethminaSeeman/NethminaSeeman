@@ -1,6 +1,6 @@
 # Hi, I'm Nethmina 👋
 
-###Undergraduate | Future AI + DevOps + Cybersecurity Engineer
+### Undergraduate | Future AI + DevOps + Cybersecurity Engineer
 
 I am building myself to become an engineer who can **design intelligent systems, deploy them reliably, and secure them responsibly**.
 
