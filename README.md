@@ -108,7 +108,7 @@ Learning Strategy        →  Depth over speed
 Engineering Identity     →  Intelligent Systems Builder ∞
 ```
 
-This panel represents the direction I am intentionally engineering myself toward as a 3rd-year IT undergraduate preparing for real-world system-level development.
+This panel represents the direction I am intentionally engineering myself toward as an IT undergraduate preparing for real-world system-level development.
 
 ---
 
