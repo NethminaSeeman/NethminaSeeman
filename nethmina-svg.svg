@@ -1,0 +1,243 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1280 740" width="1280" height="740" role="img" aria-label="NETHMINA - AI + DevOps + Cybersecurity Engineer">
+<title>NETHMINA — Future AI + DevOps + Cybersecurity Engineer</title>
+<defs>
+<style type="text/css"><![CDATA[
+text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
+@keyframes fadeIn{from{opacity:0}to{opacity:1}}
+@keyframes letterPop{0%{opacity:0;transform:scale(0) translateY(10px)}60%{opacity:1;transform:scale(1.2) translateY(-2px)}100%{opacity:1;transform:scale(1) translateY(0)}}
+@keyframes floaty{0%,100%{transform:translateY(0)}50%{transform:translateY(-8px)}}
+@keyframes heartBeat{0%,100%{transform:scale(1)}12%{transform:scale(1.25)}24%{transform:scale(1)}36%{transform:scale(1.18)}48%{transform:scale(1)}}
+@keyframes neonFlicker{0%{opacity:0}5%{opacity:.7}7%{opacity:.1}10%{opacity:.9}12%{opacity:.3}16%,100%{opacity:1}}
+@keyframes twinkle{0%,100%{opacity:0;transform:scale(.4)}50%{opacity:1;transform:scale(1)}}
+@keyframes slideInCode{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:translateY(0)}}
+.ltr{opacity:0;animation:letterPop .4s cubic-bezier(.2,.8,.3,1.3) forwards;display:inline-block}
+.ii,.pill,.st,.cl,.neon{opacity:0}
+.pill{transition:transform .2s ease,filter .2s ease;transform-box:fill-box;transform-origin:center;cursor:pointer}
+.pill:hover{transform:scale(1.08);filter:brightness(1.35)}
+.tw{transform-box:fill-box;transform-origin:center;animation:twinkle 2.6s ease-in-out infinite}
+.fl{animation:floaty 5s ease-in-out infinite}
+.sep{stroke:#1e293b;stroke-width:1;opacity:.7}
+.codeln{opacity:0;animation:slideInCode .4s ease forwards}
+]]></style>
+
+<!-- BACKGROUND GRADIENTS -->
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0%" stop-color="#090d16"/>
+  <stop offset="55%" stop-color="#0f172a"/>
+  <stop offset="100%" stop-color="#050811"/>
+</linearGradient>
+
+<!-- NAME GRADIENT (Cyan -> Blue -> Purple -> Cyan) -->
+<linearGradient id="nameg" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0%"><animate attributeName="stop-color" values="#06b6d4;#3b82f6;#8b5cf6;#06b6d4" dur="7s" repeatCount="indefinite"/></stop>
+  <stop offset="55%"><animate attributeName="stop-color" values="#0284c7;#6366f1;#06b6d4;#0284c7" dur="7s" repeatCount="indefinite"/></stop>
+  <stop offset="100%"><animate attributeName="stop-color" values="#8b5cf6;#06b6d4;#3b82f6;#8b5cf6" dur="7s" repeatCount="indefinite"/></stop>
+</linearGradient>
+
+<!-- BORDER GRADIENT -->
+<linearGradient id="borderg" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0%" stop-color="#06b6d4" stop-opacity=".4"/>
+  <stop offset="50%" stop-color="#3b82f6" stop-opacity=".3"/>
+  <stop offset="100%" stop-color="#8b5cf6" stop-opacity=".4"/>
+</linearGradient>
+
+<!-- ORB GRADIENTS -->
+<radialGradient id="orbCyan"><stop offset="0%" stop-color="#06b6d4" stop-opacity=".12"/><stop offset="100%" stop-color="#06b6d4" stop-opacity="0"/></radialGradient>
+<radialGradient id="orbBlue"><stop offset="0%" stop-color="#3b82f6" stop-opacity=".12"/><stop offset="100%" stop-color="#3b82f6" stop-opacity="0"/></radialGradient>
+<radialGradient id="orbPurple"><stop offset="0%" stop-color="#8b5cf6" stop-opacity=".10"/><stop offset="100%" stop-color="#8b5cf6" stop-opacity="0"/></radialGradient>
+
+<!-- GLOW FILTERS -->
+<filter id="glow"><feGaussianBlur stdDeviation="2.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<filter id="neonGlow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+
+<!-- DOT PATTERN -->
+<pattern id="dots" width="30" height="30" patternUnits="userSpaceOnUse"><circle cx="15" cy="15" r=".6" fill="rgba(6,182,212,.08)"/></pattern>
+
+<!-- CLIP PATHS FOR TYPING / REVEALS -->
+<clipPath id="cPrompt"><rect x="48" y="30" width="0" height="50"><animate attributeName="width" from="0" to="500" dur="1s" begin=".3s" fill="freeze"/></rect></clipPath>
+<clipPath id="cHi"><rect x="48" y="70" width="0" height="55"><animate attributeName="width" from="0" to="260" dur=".5s" begin="1.2s" fill="freeze"/></rect></clipPath>
+
+<!-- QUOTE BOX CLIP PATHS -->
+<clipPath id="q1"><rect x="48" y="236" width="0" height="150"><animate attributeName="width" from="0" to="350" dur=".7s" begin="3.4s" fill="freeze"/></rect></clipPath>
+<clipPath id="q2"><rect x="48" y="236" width="0" height="150"><animate attributeName="width" from="0" to="350" dur=".6s" begin="4.2s" fill="freeze"/></rect></clipPath>
+
+<!-- CYCLING ROLES -->
+<clipPath id="r1"><rect x="48" y="190" width="0" height="50"><animate attributeName="width" values="0;0;420;420;0;0" keyTimes="0;.01;.07;.2;.24;1" dur="24s" repeatCount="indefinite" begin="2.9s"/></rect></clipPath>
+<clipPath id="r2"><rect x="48" y="190" width="0" height="50"><animate attributeName="width" values="0;0;420;420;0;0" keyTimes="0;.26;.32;.45;.49;1" dur="24s" repeatCount="indefinite" begin="2.9s"/></rect></clipPath>
+<clipPath id="r3"><rect x="48" y="190" width="0" height="50"><animate attributeName="width" values="0;0;420;420;0;0" keyTimes="0;.51;.57;.7;.74;1" dur="24s" repeatCount="indefinite" begin="2.9s"/></rect></clipPath>
+<clipPath id="r4"><rect x="48" y="190" width="0" height="50"><animate attributeName="width" values="0;0;420;420;0;0" keyTimes="0;.76;.82;.95;.99;1" dur="24s" repeatCount="indefinite" begin="2.9s"/></rect></clipPath>
+
+<!-- RIGHT PANEL GRAPHIC REVEAL -->
+<clipPath id="rightReveal"><rect x="740" y="46" width="490" height="0">
+  <animate attributeName="height" from="0" to="650" dur="1.5s" begin=".5s" fill="freeze"/>
+</rect></clipPath>
+</defs>
+
+<!-- ================= BACKGROUND ================= -->
+<rect width="1280" height="740" rx="22" fill="url(#bg)"/>
+<rect width="1280" height="740" rx="22" fill="url(#dots)"/>
+<circle cx="200" cy="200" r="280" fill="url(#orbCyan)"><animate attributeName="r" values="280;310;280" dur="6s" repeatCount="indefinite"/></circle>
+<circle cx="1060" cy="520" r="300" fill="url(#orbBlue)"><animate attributeName="r" values="300;330;300" dur="7s" repeatCount="indefinite"/></circle>
+<circle cx="700" cy="120" r="200" fill="url(#orbPurple)"><animate attributeName="r" values="200;225;200" dur="5.5s" repeatCount="indefinite"/></circle>
+<rect x="1" y="1" width="1278" height="738" rx="22" fill="none" stroke="url(#borderg)" stroke-width="1.5"/>
+
+<!-- ================= LEFT: CONTENT ================= -->
+<!-- Terminal prompt -->
+<text clip-path="url(#cPrompt)" x="48" y="55" font-size="14"><tspan fill="#06b6d4" font-weight="bold">nethmina@dev</tspan><tspan fill="#64748b">:~$ </tspan><tspan fill="#e2e8f0">cat </tspan><tspan fill="#38bdf8">README.md</tspan></text>
+
+<!-- Hi, I'm -->
+<text clip-path="url(#cHi)" x="48" y="96" font-size="22" font-weight="bold" fill="#f8fafc">Hi, I'm 👋</text>
+
+<!-- Name: Nethmina -->
+<text x="48" y="160" font-size="36" font-weight="bold" fill="url(#nameg)" filter="url(#glow)" style="font-family:'Segoe UI', system-ui, -apple-system, sans-serif; letter-spacing: 1px;">
+  <tspan class="ltr" style="animation-delay:1.50s">N</tspan><tspan class="ltr" style="animation-delay:1.55s">e</tspan><tspan class="ltr" style="animation-delay:1.60s">t</tspan><tspan class="ltr" style="animation-delay:1.65s">h</tspan><tspan class="ltr" style="animation-delay:1.70s">m</tspan><tspan class="ltr" style="animation-delay:1.75s">i</tspan><tspan class="ltr" style="animation-delay:1.80s">n</tspan><tspan class="ltr" style="animation-delay:1.85s">a</tspan>
+</text>
+
+<!-- Cycling roles -->
+<text clip-path="url(#r1)" x="48" y="208" font-size="15" fill="#38bdf8" filter="url(#glow)">&lt; Future AI + DevOps + Cyber Engineer /&gt;</text>
+<text clip-path="url(#r2)" x="48" y="208" font-size="15" fill="#38bdf8" filter="url(#glow)">&lt; Intelligent Systems Builder ∞ /&gt;</text>
+<text clip-path="url(#r3)" x="48" y="208" font-size="15" fill="#38bdf8" filter="url(#glow)">&lt; Logic → Infrastructure → Security /&gt;</text>
+<text clip-path="url(#r4)" x="48" y="208" font-size="15" fill="#38bdf8" filter="url(#glow)">&lt; IT Undergraduate &amp; System Designer /&gt;</text>
+
+<!-- Quote / Philosophy Box -->
+<g class="cl" style="animation:fadeIn .5s ease 3.2s forwards">
+  <rect x="48" y="236" width="340" height="68" rx="8" fill="#0f172a" stroke="#1e293b" stroke-width="1"/>
+  <rect x="48" y="240" width="3.5" height="60" rx="1.5" fill="#06b6d4"/>
+</g>
+<text clip-path="url(#q1)" x="72" y="266" font-size="13.5" fill="#e2e8f0">Understanding how systems work:</text>
+<text clip-path="url(#q2)" x="72" y="288" font-size="13.5"><tspan fill="#38bdf8" font-weight="bold">logic</tspan><tspan fill="#94a3b8"> → </tspan><tspan fill="#818cf8" font-weight="bold">infrastructure</tspan><tspan fill="#94a3b8"> → </tspan><tspan fill="#a7f3d0" font-weight="bold">security</tspan></text>
+<g class="tw" style="animation-delay:.9s"><path d="M360 260l2.4 6.4 6.4 2.4-6.4 2.4-2.4 6.4-2.4-6.4-6.4-2.4 6.4-2.4z" fill="#38bdf8"/></g>
+
+<!-- Tech Stack -->
+<text class="ii" x="48" y="348" font-size="15" fill="#38bdf8" font-weight="bold" style="animation:fadeIn .4s ease 4.6s forwards">⚙️ Engineering Stack</text>
+
+<!-- Row 1: Languages & Apps -->
+<g class="pill" style="animation:fadeIn .3s ease 4.8s forwards"><rect x="48" y="364" width="50" height="26" rx="13" fill="rgba(56,189,248,.12)" stroke="#38bdf8" stroke-width="1"/><text x="73" y="381" text-anchor="middle" font-size="12" fill="#7dd3fc" font-weight="bold">C</text></g>
+<g class="pill" style="animation:fadeIn .3s ease 4.9s forwards"><rect x="104" y="364" width="58" height="26" rx="13" fill="rgba(56,189,248,.12)" stroke="#38bdf8" stroke-width="1"/><text x="133" y="381" text-anchor="middle" font-size="12" fill="#7dd3fc" font-weight="bold">C++</text></g>
+<g class="pill" style="animation:fadeIn .3s ease 5.0s forwards"><rect x="168" y="364" width="58" height="26" rx="13" fill="rgba(239,68,68,.12)" stroke="#ef4444" stroke-width="1"/><text x="197" y="381" text-anchor="middle" font-size="12" fill="#fca5a5" font-weight="bold">Java</text></g>
+<g class="pill" style="animation:fadeIn .3s ease 5.1s forwards"><rect x="232" y="364" width="70" height="26" rx="13" fill="rgba(59,130,246,.14)" stroke="#3b82f6" stroke-width="1"/><text x="267" y="381" text-anchor="middle" font-size="12" fill="#93c5fd" font-weight="bold">Python</text></g>
+<g class="pill" style="animation:fadeIn .3s ease 5.15s forwards"><rect x="308" y="364" width="58" height="26" rx="13" fill="rgba(139,92,246,.12)" stroke="#8b5cf6" stroke-width="1"/><text x="337" y="381" text-anchor="middle" font-size="12" fill="#c4b5fd" font-weight="bold">C#</text></g>
+<g class="pill" style="animation:fadeIn .3s ease 5.2s forwards"><rect x="372" y="364" width="68" height="26" rx="13" fill="rgba(168,85,247,.12)" stroke="#a855f7" stroke-width="1"/><text x="406" y="381" text-anchor="middle" font-size="12" fill="#e9d5ff" font-weight="bold">Kotlin</text></g>
+
+<!-- Row 2: Web, Systems, Workflow -->
+<g class="pill" style="animation:fadeIn .3s ease 5.25s forwards"><rect x="48" y="398" width="64" height="26" rx="13" fill="rgba(245,158,11,.12)" stroke="#f59e0b" stroke-width="1"/><text x="80" y="415" text-anchor="middle" font-size="12" fill="#fde047" font-weight="bold">HTML</text></g>
+<g class="pill" style="animation:fadeIn .3s ease 5.3s forwards"><rect x="118" y="398" width="48" height="26" rx="13" fill="rgba(236,72,153,.12)" stroke="#ec4899" stroke-width="1"/><text x="142" y="415" text-anchor="middle" font-size="12" fill="#fbcfe8" font-weight="bold">JS</text></g>
+<g class="pill" style="animation:fadeIn .3s ease 5.4s forwards"><rect x="172" y="398" width="58" height="26" rx="13" fill="rgba(99,102,241,.12)" stroke="#6366f1" stroke-width="1"/><text x="201" y="415" text-anchor="middle" font-size="12" fill="#a5b4fc" font-weight="bold">PHP</text></g>
+<g class="pill" style="animation:fadeIn .3s ease 5.45s forwards"><rect x="236" y="398" width="64" height="26" rx="13" fill="rgba(249,115,22,.12)" stroke="#f97316" stroke-width="1"/><text x="268" y="415" text-anchor="middle" font-size="12" fill="#ffedd5" font-weight="bold">Linux</text></g>
+<g class="pill" style="animation:fadeIn .3s ease 5.5s forwards"><rect x="306" y="398" width="70" height="26" rx="13" fill="rgba(16,185,129,.12)" stroke="#10b981" stroke-width="1"/><text x="341" y="415" text-anchor="middle" font-size="12" fill="#a7f3d0" font-weight="bold">MySQL</text></g>
+<g class="pill" style="animation:fadeIn .3s ease 5.55s forwards"><rect x="382" y="398" width="52" height="26" rx="13" fill="rgba(239,68,68,.12)" stroke="#ef4444" stroke-width="1"/><text x="408" y="415" text-anchor="middle" font-size="12" fill="#fca5a5" font-weight="bold">Git</text></g>
+<g class="pill" style="animation:fadeIn .3s ease 5.6s forwards"><rect x="440" y="398" width="64" height="26" rx="13" fill="rgba(168,85,247,.12)" stroke="#a855f7" stroke-width="1"/><text x="472" y="415" text-anchor="middle" font-size="12" fill="#e9d5ff" font-weight="bold">Figma</text></g>
+
+<!-- About / Core Focus -->
+<text class="ii" x="48" y="465" font-size="15" fill="#38bdf8" font-weight="bold" style="animation:fadeIn .4s ease 5.8s forwards">🎯 Core Focus</text>
+<text class="ii" x="48" y="490" font-size="13.5" style="animation:fadeIn .4s ease 6.0s forwards"><tspan fill="#34d399">&gt;_ </tspan><tspan fill="#e2e8f0">AI &amp; ML: Model logic, data-driven thinking &amp; structured problem solving.</tspan></text>
+<text class="ii" x="48" y="514" font-size="13.5" style="animation:fadeIn .4s ease 6.2s forwards"><tspan fill="#38bdf8">⚙️ </tspan><tspan fill="#e2e8f0">DevOps Mindset: Automation, deployment, version control &amp; reliability.</tspan></text>
+<text class="ii" x="48" y="538" font-size="13.5" style="animation:fadeIn .4s ease 6.4s forwards"><tspan fill="#818cf8">🔐 </tspan><tspan fill="#e2e8f0">Cybersecurity &amp; Networking: Secure design from network layer upward.</tspan></text>
+
+<!-- Engineering Pillars Bar -->
+<g class="st" style="animation:fadeIn .5s ease 6.6s forwards">
+  <rect x="48" y="562" width="530" height="66" rx="12" fill="#0f172a" stroke="#1e293b" stroke-width="1"/>
+  <line x1="180" y1="574" x2="180" y2="616" class="sep"/>
+  <line x1="312" y1="574" x2="312" y2="616" class="sep"/>
+  <line x1="444" y1="574" x2="444" y2="616" class="sep"/>
+  <text x="114" y="588" text-anchor="middle" font-size="11.5" fill="#94a3b8">🧠 AI / ML</text>
+  <text x="246" y="588" text-anchor="middle" font-size="11.5" fill="#94a3b8">⚙️ DevOps</text>
+  <text x="378" y="588" text-anchor="middle" font-size="11.5" fill="#94a3b8">🔐 Security</text>
+  <text x="502" y="588" text-anchor="middle" font-size="11.5" fill="#94a3b8">🌐 Networking</text>
+</g>
+<text class="st" x="114" y="616" text-anchor="middle" font-size="16" font-weight="bold" fill="#38bdf8" filter="url(#glow)" style="animation:fadeIn .4s ease 6.8s forwards">Logic</text>
+<text class="st" x="246" y="616" text-anchor="middle" font-size="16" font-weight="bold" fill="#818cf8" filter="url(#glow)" style="animation:fadeIn .4s ease 6.95s forwards">Automation</text>
+<text class="st" x="378" y="616" text-anchor="middle" font-size="16" font-weight="bold" fill="#a7f3d0" filter="url(#glow)" style="animation:fadeIn .4s ease 7.1s forwards">By Design</text>
+<text class="st" x="502" y="616" text-anchor="middle" font-size="16" font-weight="bold" fill="#fde047" filter="url(#glow)" style="animation:fadeIn .4s ease 7.25s forwards">OSI Layers</text>
+
+<!-- Neon sign (Bottom Left) -->
+<g class="neon" style="animation:neonFlicker 2.4s ease 7.5s forwards">
+  <text x="48" y="662" font-size="11" fill="#06b6d4" filter="url(#neonGlow)" letter-spacing=".5" opacity=".9">⚡ Engineering Identity: Intelligent Systems Builder ∞</text>
+</g>
+
+<!-- ================= CENTER: CODE EDITOR ================= -->
+<g style="animation:fadeIn .6s ease 1s both">
+  <rect x="420" y="46" width="300" height="225" rx="10" fill="#030712" stroke="#1e293b" stroke-width="1"/>
+  <!-- title bar -->
+  <rect x="420" y="46" width="300" height="26" rx="10" fill="#0f172a"/>
+  <rect x="420" y="60" width="300" height="12" fill="#0f172a"/>
+  <circle cx="436" cy="59" r="4.5" fill="#ff5f56"/>
+  <circle cx="450" cy="59" r="4.5" fill="#ffbd2e"/>
+  <circle cx="464" cy="59" r="4.5" fill="#27c93f"/>
+  <text x="530" y="63" font-size="10" fill="#94a3b8">system_pipeline.py</text>
+</g>
+<!-- Code lines typed in -->
+<text class="codeln" x="436" y="92" font-size="11.5" style="animation-delay:1.4s"><tspan fill="#c084fc">class</tspan><tspan fill="#e2e8f0"> </tspan><tspan fill="#38bdf8">IntelligentSystem</tspan><tspan fill="#e2e8f0">:</tspan></text>
+<text class="codeln" x="436" y="110" font-size="11.5" style="animation-delay:1.8s"><tspan fill="#e2e8f0">  </tspan><tspan fill="#c084fc">def</tspan><tspan fill="#e2e8f0"> </tspan><tspan fill="#fde047">__init__</tspan><tspan fill="#e2e8f0">(self):</tspan></text>
+<text class="codeln" x="436" y="128" font-size="11.5" style="animation-delay:2.2s"><tspan fill="#e2e8f0">    self.</tspan><tspan fill="#fca5a5">model</tspan><tspan fill="#e2e8f0"> = </tspan><tspan fill="#38bdf8">AI.train_logic()</tspan></text>
+<text class="codeln" x="436" y="146" font-size="11.5" style="animation-delay:2.6s"><tspan fill="#e2e8f0">    self.</tspan><tspan fill="#fca5a5">infra</tspan><tspan fill="#e2e8f0"> = </tspan><tspan fill="#818cf8">DevOps.deploy()</tspan></text>
+<text class="codeln" x="436" y="164" font-size="11.5" style="animation-delay:3.0s"><tspan fill="#e2e8f0">    self.</tspan><tspan fill="#fca5a5">sec</tspan><tspan fill="#e2e8f0"> = </tspan><tspan fill="#a7f3d0">Sec.harden_by_design()</tspan></text>
+<text class="codeln" x="436" y="182" font-size="11.5" style="animation-delay:3.4s"><tspan fill="#e2e8f0">  </tspan><tspan fill="#c084fc">def</tspan><tspan fill="#e2e8f0"> </tspan><tspan fill="#fde047">run_growth_loop</tspan><tspan fill="#e2e8f0">(self):</tspan></text>
+<text class="codeln" x="436" y="200" font-size="11.5" style="animation-delay:3.8s"><tspan fill="#e2e8f0">    </tspan><tspan fill="#c084fc">while</tspan><tspan fill="#e2e8f0"> </tspan><tspan fill="#38bdf8">True</tspan><tspan fill="#e2e8f0">:</tspan></text>
+<text class="codeln" x="436" y="218" font-size="11.5" style="animation-delay:4.2s"><tspan fill="#e2e8f0">      self.</tspan><tspan fill="#38bdf8">build</tspan><tspan fill="#e2e8f0">().</tspan><tspan fill="#818cf8">secure</tspan><tspan fill="#e2e8f0">().</tspan><tspan fill="#a7f3d0">scale</tspan><tspan fill="#e2e8f0">()</tspan></text>
+<text class="codeln" x="436" y="236" font-size="11.5" style="animation-delay:4.6s"><tspan fill="#64748b"># Depth over speed. ∞</tspan></text>
+
+<!-- ================= TOP RIGHT: NEON SIGN ================= -->
+<g class="neon" style="animation:neonFlicker 2.4s ease 5s forwards">
+  <rect x="745" y="46" width="220" height="80" rx="12" fill="none" stroke="#06b6d4" stroke-width="2" filter="url(#neonGlow)" opacity=".7"/>
+  <text x="855" y="78" text-anchor="middle" font-size="19" font-weight="bold" fill="#38bdf8" filter="url(#neonGlow)">&lt;/&gt;</text>
+  <text x="855" y="98" text-anchor="middle" font-size="11" font-weight="bold" fill="#06b6d4" filter="url(#neonGlow)" letter-spacing="2">BUILD RELIABLY</text>
+  <text x="855" y="114" text-anchor="middle" font-size="11" font-weight="bold" fill="#818cf8" filter="url(#neonGlow)" letter-spacing="2">SECURE RESPONSIBLY</text>
+</g>
+
+<!-- ================= RIGHT SIDE: ARCHITECTURE GRAPHIC ================= -->
+<g clip-path="url(#rightReveal)">
+  <!-- Outer Glow Circle -->
+  <circle cx="1020" cy="420" r="260" fill="url(#orbCyan)"/>
+
+  <!-- System Architecture Card Container -->
+  <g class="fl">
+    <!-- Main Blueprint Box -->
+    <rect x="780" y="160" width="440" height="520" rx="16" fill="#0f172a" stroke="#1e293b" stroke-width="1.5"/>
+    <rect x="780" y="160" width="440" height="36" rx="16" fill="#1e293b"/>
+    <rect x="780" y="180" width="440" height="16" fill="#1e293b"/>
+    <text x="1000" y="183" text-anchor="middle" font-size="12" font-weight="bold" fill="#94a3b8">ARCHITECTURE_SYSTEM.DIAGRAM</text>
+    
+    <!-- Layer 1: AI & Logic Layer -->
+    <g style="animation:fadeIn .5s ease 1.5s forwards">
+      <rect x="805" y="215" width="390" height="85" rx="10" fill="rgba(6,182,212,.08)" stroke="#06b6d4" stroke-width="1"/>
+      <text x="825" y="240" font-size="13" font-weight="bold" fill="#38bdf8">🧠 Artificial Intelligence Layer</text>
+      <text x="825" y="262" font-size="11.5" fill="#94a3b8">• Model Logic &amp; Structured Problem Solving</text>
+      <text x="825" y="280" font-size="11.5" fill="#94a3b8">• Data-driven inference &amp; intelligent app flow</text>
+    </g>
+
+    <!-- Connector Arrow 1 -->
+    <path d="M 1000 300 L 1000 320" stroke="#06b6d4" stroke-width="2" stroke-dasharray="3,3"/>
+    <polygon points="996,318 1000,324 1004,318" fill="#06b6d4"/>
+
+    <!-- Layer 2: DevOps & Automation Layer -->
+    <g style="animation:fadeIn .5s ease 2.0s forwards">
+      <rect x="805" y="325" width="390" height="85" rx="10" fill="rgba(99,102,241,.08)" stroke="#6366f1" stroke-width="1"/>
+      <text x="825" y="350" font-size="13" font-weight="bold" fill="#818cf8">⚙️ DevOps &amp; Automation Layer</text>
+      <text x="825" y="372" font-size="11.5" fill="#94a3b8">• CI/CD Workflows, Containerization &amp; Deployment</text>
+      <text x="825" y="390" font-size="11.5" fill="#94a3b8">• Version Control Culture &amp; Infrastructure Reliability</text>
+    </g>
+
+    <!-- Connector Arrow 2 -->
+    <path d="M 1000 410 L 1000 430" stroke="#6366f1" stroke-width="2" stroke-dasharray="3,3"/>
+    <polygon points="996,428 1000,434 1004,428" fill="#6366f1"/>
+
+    <!-- Layer 3: Cybersecurity & Networking Layer -->
+    <g style="animation:fadeIn .5s ease 2.5s forwards">
+      <rect x="805" y="435" width="390" height="85" rx="10" fill="rgba(16,185,129,.08)" stroke="#10b981" stroke-width="1"/>
+      <text x="825" y="460" font-size="13" font-weight="bold" fill="#34d399">🔐 Cybersecurity &amp; Network Layer</text>
+      <text x="825" y="482" font-size="11.5" fill="#94a3b8">• Secure Architecture &amp; Protocol Awareness</text>
+      <text x="825" y="500" font-size="11.5" fill="#94a3b8">• OSI Layer Communication &amp; Defense in Depth</text>
+    </g>
+
+    <!-- Bottom Status Panel -->
+    <g style="animation:fadeIn .5s ease 3.0s forwards">
+      <rect x="805" y="540" width="390" height="115" rx="10" fill="#030712" stroke="#1e293b" stroke-width="1"/>
+      <text x="825" y="565" font-size="12" font-weight="bold" fill="#38bdf8">&gt; SYSTEM_STATUS: OPERATIONAL</text>
+      <text x="825" y="588" font-size="11" fill="#64748b">Growth Loop : Logic → Infra → Security → AI</text>
+      <text x="825" y="608" font-size="11" fill="#64748b">Strategy    : Depth over speed</text>
+      <text x="825" y="628" font-size="11" fill="#34d399">Target      : Real-world, scalable, secure products</text>
+    </g>
+  </g>
+</g>
+</svg>
